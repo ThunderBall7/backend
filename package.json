@@ -1,0 +1,15 @@
+{
+  "name": "backendyt",
+  "version": "1.0.0",
+  "description": "backend-yt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "backend"
+  ],
+  "author": "manish maurya",
+  "license": "ISC"
+}
